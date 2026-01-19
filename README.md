@@ -1,1 +1,7 @@
-이 서버 구동기는 한국의 "몽환시" 마인크래프트 서버에서 이용하기 위해 생성돼었습니다. 다른 서버에서 사용하면, 많은 기능이 작동하지 않을 수 있으니 주의해주세요!
+# Moved To [PaperMonghwan](https://github.com/Make-Fantasia-Monghwan/PaperMonghwan)
+
+## You Shouldn't Use this repository because this server is just like mirror of Paper!
+Please Use this if you tried to used this!! [Paper](https://github.com/PaperMC/Paper) ([Officeal Website](https://papermc.io))
+
+## 이 리포지토리는 단순히 Paper의 미러와 같기 때문에 사용하시면 않됩니다!
+만약 이 리포지토리를 사용하려고 하셨다면, 이것을 사용하세요!! [Paper](https://github.com/PaperMC/Paper)
